@@ -3,3 +3,5 @@ env
 *xml
 *iml
 .idea
+.pyc
+.pycache
