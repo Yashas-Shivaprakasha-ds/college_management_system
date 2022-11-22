@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/college_management_system.iml" filepath="$PROJECT_DIR$/.idea/college_management_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Yashas/dc_accounting_be/.idea/dc_accounting_be.iml" filepath="$PROJECT_DIR$/../Yashas/dc_accounting_be/.idea/dc_accounting_be.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dc_cloud_be/.idea/dc_cloud_be.iml" filepath="$PROJECT_DIR$/../dc_cloud_be/.idea/dc_cloud_be.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_sql/dc_crm_be copy/.idea/dc_crm_be.iml" filepath="$PROJECT_DIR$/../python_sql/dc_crm_be copy/.idea/dc_crm_be.iml" />
     </modules>
   </component>
 </project>

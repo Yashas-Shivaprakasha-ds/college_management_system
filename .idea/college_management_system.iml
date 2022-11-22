@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="dc_cloud_be" />
+    <orderEntry type="module" module-name="dc_accounting_be" />
+    <orderEntry type="module" module-name="dc_crm_be" />
   </component>
 </module>
